@@ -1,0 +1,6 @@
+The following are the requirements to use the python application (code)
+
+- Apply for a twitter developer account and create a new app in order to receive the credentials to authenticate usage of twitter API's
+- Insert the credentials that are recieved form the twiter developer account in the vacant places
+- Use Jupyter notebook desktop application to run the python code --- any online source can also be used to execute it 
+
